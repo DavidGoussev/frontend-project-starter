@@ -7,7 +7,7 @@ A starter application
 Start by cloning the repository:
 
 ```
-$ git clone https://github.com/Bloc/bloc-frontend-project-starter.git <your-frontend-project-name>
+$ git clone https://github.com/dpg5000/frontend-project-starter.git <your-projectname>
 ```
 
 The project uses Grunt to run tasks in development. 
