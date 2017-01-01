@@ -1,5 +1,6 @@
 ## DPG5000's Frontend Project Starter
-----
+
+>Note that these edits comprise the pull request that is assignment-35 of the frontend curriculum.
 
 A starter application 
 
